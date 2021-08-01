@@ -1,0 +1,16 @@
+{
+  "name": "threejs-starter",
+  "version": "1.0.0",
+  "description": "A starter project exploring Three.js",
+  "main": "public/src/index.html",
+  "scripts": {
+    "dev": "vite public/src/index.html",
+    "build": "vite build public/src/index.html",
+    "preview": "vite preview public/src/index.html"
+  },
+  "author": "pdl39",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^2.4.4"
+  }
+}
