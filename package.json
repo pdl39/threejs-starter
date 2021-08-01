@@ -11,6 +11,7 @@
   "author": "pdl39",
   "license": "ISC",
   "dependencies": {
+    "three": "^0.131.1",
     "vite": "^2.4.4"
   }
 }
