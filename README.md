@@ -1,7 +1,8 @@
 ## Three.js Starter
 ### A starter project exploring Three.js
 
-#### built using ![Vitejs](https://vitejs.dev)
+
+#### > built using [Vitejs](https://vitejs.dev)
 
 <br />
 
