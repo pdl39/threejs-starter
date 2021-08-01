@@ -4,14 +4,16 @@
   "description": "A starter project exploring Three.js",
   "main": "public/src/index.html",
   "scripts": {
-    "dev": "vite public/src/index.html",
-    "build": "vite build public/src/index.html",
-    "preview": "vite preview public/src/index.html"
+    "dev": "vite public/src",
+    "build": "vite build public/src",
+    "preview": "vite preview public/src"
   },
   "author": "pdl39",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.131.1",
+    "three": "^0.131.1"
+  },
+  "devDependencies": {
     "vite": "^2.4.4"
   }
 }
